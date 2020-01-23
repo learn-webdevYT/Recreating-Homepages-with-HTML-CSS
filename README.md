@@ -13,3 +13,7 @@ I want to recreate as many homepages as I can so I get more experience with fron
 ## 3. Facebook Homepage
    - [Source Code](https://github.com/learn-webdevYT/Facebook-Homepage)
    - [DEMO](https://learn-webdevyt.github.io/Facebook-Homepage/)
+
+## 4. Twitter Homepage
+   - [Source Code](https://github.com/learn-webdevYT/Twitter-Homepage)
+   - [DEMO](https://learn-webdevyt.github.io/Twitter-Homepage/)
